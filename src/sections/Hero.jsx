@@ -4,7 +4,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div>Hero</div>
+    <div>Hero git v2</div>
   )
 }
 
